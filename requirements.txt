@@ -1,0 +1,11 @@
+asgiref==3.11.1
+crispy-bootstrap4==2026.2
+Django==5.2.11
+django-crispy-forms==2.5
+django-db==0.0.7
+django-filter==25.2
+django-model-utils==5.0.0
+djangorestframework==3.16.1
+pillow==12.1.0
+PyMySQL==1.1.2
+sqlparse==0.5.5
